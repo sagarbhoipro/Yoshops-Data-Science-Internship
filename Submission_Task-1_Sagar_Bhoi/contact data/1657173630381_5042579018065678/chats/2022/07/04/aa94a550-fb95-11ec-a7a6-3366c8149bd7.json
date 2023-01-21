@@ -1,0 +1,37 @@
+{
+  "id": "aa94a550-fb95-11ec-a7a6-3366c8149bd7",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Anil",
+    "id": "d9015aea9e154edb8c9775052c1f6b18cf4f3844a04d50346d30b39dc59d90ff",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Visakhapatnam"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-04T12:34:49.822Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-04T12:34:49.822Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T12:35:30.269Z",
+      "msg": "Name : Anil\r\nPhone : 9515654885"
+    }
+  ],
+  "domain": "yoshops.com"
+}

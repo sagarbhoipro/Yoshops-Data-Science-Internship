@@ -1,0 +1,37 @@
+{
+  "id": "01f163d0-f8ec-11ec-9ba6-1f4331c726ac",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "NARENDRA",
+    "id": "590b422d00ad724878df2f4841cbdfdbb12eb790a73156b2bb15bb4f2925e8cf",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Unknown"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-01T03:15:19.712Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-01T03:15:19.712Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-01T03:15:36.592Z",
+      "msg": "Name : NARENDRA\r\nPhone : 9391193459"
+    }
+  ],
+  "domain": "a8efe83b-6857-477d-9d0f-f13ca0229a20.mysimplestore.com"
+}

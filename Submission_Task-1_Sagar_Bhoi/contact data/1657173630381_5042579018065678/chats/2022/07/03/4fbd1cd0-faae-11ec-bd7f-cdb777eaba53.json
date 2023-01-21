@@ -1,0 +1,37 @@
+{
+  "id": "4fbd1cd0-faae-11ec-bd7f-cdb777eaba53",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Piryesh",
+    "id": "36fe3dc4a827a18c8b52c3912f6df29b25e16f0e699b4c630253c32e86464405",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Unknown"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-03T08:58:50.022Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-03T08:58:50.022Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-03T09:01:16.526Z",
+      "msg": "Name : Piryesh\r\nPhone : 7073128350"
+    }
+  ],
+  "domain": "yoshops.com"
+}

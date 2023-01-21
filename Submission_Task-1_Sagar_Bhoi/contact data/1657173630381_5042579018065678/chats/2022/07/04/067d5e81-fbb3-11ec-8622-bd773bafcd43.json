@@ -1,0 +1,37 @@
+{
+  "id": "067d5e81-fbb3-11ec-8622-bd773bafcd43",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Anne",
+    "id": "d49671eca243d224ee20878dce0e54c50dcf0d5251def73c9ef341970a5aee8d",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Unknown"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-04T16:04:59.408Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-04T16:04:59.408Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T16:07:20.266Z",
+      "msg": "Name : Anne\r\nPhone : 6382105605"
+    }
+  ],
+  "domain": "yoshops.com"
+}

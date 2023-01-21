@@ -1,0 +1,37 @@
+{
+  "id": "a95bb3f0-fb44-11ec-a242-a546b3d938a3",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Rajkabir",
+    "id": "48f767aed38fe31bd398c2604452a325a6330f09d23c240162080654ddbf1f32",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Unknown"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-04T02:54:58.636Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-04T02:54:58.636Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T02:55:33.257Z",
+      "msg": "Name : Rajkabir\r\nPhone : 8815007851"
+    }
+  ],
+  "domain": "yoshops.com"
+}

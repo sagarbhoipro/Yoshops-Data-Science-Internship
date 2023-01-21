@@ -1,0 +1,37 @@
+{
+  "id": "69c41d60-f921-11ec-b076-f5d0ec16503b",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Prem Kumar",
+    "id": "b7c674efcc518c0dfd1bf6931c4a8a1c9ee09c834b549bccc077ebb1ba6ba285",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Jaipur"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-01T09:37:37.075Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-01T09:37:37.075Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-01T09:38:16.115Z",
+      "msg": "Name : Prem Kumar\r\nPhone : 9799818360"
+    }
+  ],
+  "domain": "yoshops.com"
+}

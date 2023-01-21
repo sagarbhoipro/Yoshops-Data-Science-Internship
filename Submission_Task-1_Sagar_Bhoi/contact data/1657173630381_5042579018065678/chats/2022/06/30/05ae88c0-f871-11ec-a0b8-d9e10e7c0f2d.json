@@ -1,0 +1,45 @@
+{
+  "id": "05ae88c0-f871-11ec-a0b8-d9e10e7c0f2d",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Nitin kumar",
+    "id": "74f77cd6f2cb5a6b5826fe5cee3dba495c1cae36527d1e9cd52dbf60904f679d",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Rohtak"
+  },
+  "messageCount": 2,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-06-30T12:34:57.512Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-30T12:34:57.512Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T12:38:45.468Z",
+      "msg": "Name : Nitin kumar\r\nPhone : 9304522101"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T12:39:05.166Z",
+      "msg": "91"
+    }
+  ],
+  "domain": "yoshops.com"
+}

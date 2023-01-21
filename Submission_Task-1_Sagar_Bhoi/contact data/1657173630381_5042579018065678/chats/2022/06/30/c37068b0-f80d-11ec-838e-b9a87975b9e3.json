@@ -1,0 +1,37 @@
+{
+  "id": "c37068b0-f80d-11ec-838e-b9a87975b9e3",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Avnish kumar",
+    "id": "8672d898bc8b060bbb8788ef69e4db839398e4114ed251475e48472e0a68a2ef",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Patna"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-06-30T00:44:27.558Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-30T00:44:27.558Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T00:45:06.125Z",
+      "msg": "Name : Avnish kumar\r\nPhone : 6200028123"
+    }
+  ],
+  "domain": "a8efe83b-6857-477d-9d0f-f13ca0229a20.mysimplestore.com"
+}

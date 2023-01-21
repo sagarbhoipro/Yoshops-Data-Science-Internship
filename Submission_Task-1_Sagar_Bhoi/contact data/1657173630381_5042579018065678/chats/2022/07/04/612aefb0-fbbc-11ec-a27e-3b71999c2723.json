@@ -1,0 +1,53 @@
+{
+  "id": "612aefb0-fbbc-11ec-a27e-3b71999c2723",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Nelson Friday",
+    "id": "79068a84f3034856a5585a09b94c7574cbd3bad8d386fc7293355fb92d2116bf",
+    "email": null
+  },
+  "location": {
+    "countryCode": "NG",
+    "city": "Lagos"
+  },
+  "messageCount": 3,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-04T17:11:56.168Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-04T17:11:56.168Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T17:12:12.453Z",
+      "msg": "Name : Nelson Friday\r\nPhone : 08164881200"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T17:12:38.923Z",
+      "msg": "Please kindly help me  with Data Science Internship role"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-04T17:13:19.629Z",
+      "msg": "+2348164881200"
+    }
+  ],
+  "domain": "yoshops.com"
+}

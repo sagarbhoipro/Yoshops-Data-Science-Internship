@@ -1,0 +1,37 @@
+{
+  "id": "6bdba4c0-f74a-11ec-a0c1-0d2e72636470",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Reena",
+    "id": "43d1f6120b69b2f7d89eafab01a03b354f426b2840c3f1ace49de8c3fc6295e5",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Dehradun"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-06-29T01:26:09.800Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-29T01:26:09.800Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-29T01:27:09.693Z",
+      "msg": "Name : Reena\r\nPhone : 9528692288"
+    }
+  ],
+  "domain": "yoshops.com"
+}

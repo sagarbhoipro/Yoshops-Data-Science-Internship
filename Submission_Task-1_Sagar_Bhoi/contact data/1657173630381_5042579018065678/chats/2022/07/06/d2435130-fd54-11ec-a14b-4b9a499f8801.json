@@ -1,0 +1,37 @@
+{
+  "id": "d2435130-fd54-11ec-a14b-4b9a499f8801",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Sandhya",
+    "id": "e1b4090eb656774ad96827b4083cd46933d2ec90862a4269fc8b13c4dac87e10",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Medchal"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-06T17:55:42.067Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-06T17:55:42.067Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-06T17:56:05.461Z",
+      "msg": "Name : Sandhya\r\nPhone : 9154940621"
+    }
+  ],
+  "domain": "yoshops.com"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cce9c410-f91e-11ec-ac48-9f85e64f2db4",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "ramkumar",
+    "id": "adf7fa7a9da3ca2f3fa464cdd7880137472f79d9efabb61bf6c1dafdba8ce7ee",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Coimbatore"
+  },
+  "messageCount": 2,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-01T09:18:54.519Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-01T09:18:54.519Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-01T09:21:18.730Z",
+      "msg": "Name : ramkumar\r\nPhone : 9962278886"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-01T09:21:45.253Z",
+      "msg": "hi sir"
+    }
+  ],
+  "domain": "yoshops.com"
+}

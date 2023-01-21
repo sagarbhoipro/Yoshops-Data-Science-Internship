@@ -1,0 +1,37 @@
+{
+  "id": "102ea5b0-fa46-11ec-af59-f3d89214e142",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Rohit Kumar",
+    "id": "341b95541c7f9e9cf3d806c74b624c2c02af37ece41234033df3c2fe6e534ac1",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Rohtak"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-02T20:32:31.599Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-02T20:32:31.599Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-02T20:33:19.671Z",
+      "msg": "Name : Rohit Kumar\r\nPhone : 9569402314"
+    }
+  ],
+  "domain": "yoshops.com"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "1b33d1d0-fb02-11ec-8013-c5c03606d8bf",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Kamini",
+    "id": "4ec81cf23bc5ef3a31255bfdead0f2fbad76ce51fb24003f9829813359aeb383",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Mumbai"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-03T18:58:33.623Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-03T18:58:33.623Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-03T18:59:06.111Z",
+      "msg": "Name : Kamini\r\nPhone : 8767852141"
+    }
+  ],
+  "domain": "yoshops.com"
+}

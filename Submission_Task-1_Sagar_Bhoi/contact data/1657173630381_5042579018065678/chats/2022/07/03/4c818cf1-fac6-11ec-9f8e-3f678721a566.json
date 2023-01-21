@@ -1,0 +1,45 @@
+{
+  "id": "4c818cf1-fac6-11ec-9f8e-3f678721a566",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "Rajkabir Diwan",
+    "id": "506e76cfd43654408db3bad6097df25333de94e7316740f6891596d04dfd8248",
+    "email": null
+  },
+  "location": {
+    "countryCode": "IN",
+    "city": "Unknown"
+  },
+  "messageCount": 2,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-07-03T11:50:26.565Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-07-03T11:50:26.565Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-03T11:51:19.629Z",
+      "msg": "Name : Rajkabir Diwan\r\nPhone : 8815007851"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-07-03T11:51:32.919Z",
+      "msg": "Remot chahiye"
+    }
+  ],
+  "domain": "yoshops.com"
+}

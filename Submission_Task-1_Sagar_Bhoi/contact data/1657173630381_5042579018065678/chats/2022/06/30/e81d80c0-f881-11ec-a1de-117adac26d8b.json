@@ -1,0 +1,37 @@
+{
+  "id": "e81d80c0-f881-11ec-a1de-117adac26d8b",
+  "type": "chat",
+  "pageId": "5a0424fc198bd56b8c03a242",
+  "visitor": {
+    "name": "HAMMAD BIN NAVEED",
+    "id": "78d038e23ab2bb331d43516d845e0dc2171f7a54d838605b84cc0aa429c0a7f9",
+    "email": null
+  },
+  "location": {
+    "countryCode": "PK",
+    "city": "Rawalpindi"
+  },
+  "messageCount": 1,
+  "chatDuration": 0,
+  "rating": 0,
+  "createdOn": "2022-06-30T14:35:49.350Z",
+  "messages": [
+    {
+      "sender": {
+        "t": "s"
+      },
+      "type": "msg",
+      "time": "2022-06-30T14:35:49.350Z",
+      "msg": "Welcome to Yoshops.com, If you need help simply reply to this message with your Name and your  Mobile number. We like to contact you to help.\nOr Whatsapp =+91-9080749858"
+    },
+    {
+      "sender": {
+        "t": "v"
+      },
+      "type": "msg",
+      "time": "2022-06-30T14:37:42.791Z",
+      "msg": "Name : HAMMAD BIN NAVEED\r\nPhone : 03181982707"
+    }
+  ],
+  "domain": "yoshops.com"
+}
